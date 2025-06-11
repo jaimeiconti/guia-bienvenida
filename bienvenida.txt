@@ -1,1 +1,2 @@
 "Bienvenido al equipo de DevSoft!" 
+"Recuerda seguir nuestra guia de estilos para escribir documentos." 
