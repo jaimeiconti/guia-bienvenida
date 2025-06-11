@@ -1,2 +1,1 @@
-"Bienvenido al equipo de DevSoft!" 
-"Recuerda seguir nuestra guia de estilos para escribir documentos." 
+"Hola! Te damos la mas cordial bienvenida al equipo de desarrollo." 
