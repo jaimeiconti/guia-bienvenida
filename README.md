@@ -16,3 +16,6 @@ R: A tener cuidado con los commits que se hacen en la rama y como se debe decidi
 
 - ¿En que tipo de proyectos (Personales o Academicos) te gustaría aplicar git desde ahora ?
 R: Ya uso de forma laboral Git, por lo que tenia las nociones básicas, ahora lo usaré para proyectos personales.
+
+----
+Profesor: Excelente trabajo estimado! 
